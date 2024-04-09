@@ -1,4 +1,4 @@
-# verbaVista # (chatBot)
+# verbaVista(chatBot)
 verbaVista is a simple chatbot application built using Python and Tkinter.
 
 ## Description #

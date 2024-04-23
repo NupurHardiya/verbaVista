@@ -1,5 +1,5 @@
 # verbaVista(chatBot)
-verbaVista is a simple chatbot application built using Python and Tkinter.
+verbaVista is a simple chatbot application built using Python and Streamlit.
 
 ## Description #
 This chatbot allows users to interact with a pre-trained model to receive responses based on the input provided. The chatbot is capable of understanding various intents and providing appropriate responses.
@@ -24,9 +24,10 @@ The chatbot will respond with an appropriate message based on the input.
 Python 3.x
 nltk
 keras
-tkinter
+sreamlit
 
-## Screenshots #![GUI](https://github.com/NupurHardiya/VerbaVista/assets/113535580/e754abd6-3d68-45c0-8d55-ce77a4b21483)
+![Screenshot 2024-04-23 142848](https://github.com/NupurHardiya/verbaVista/assets/113535580/25478d07-e125-4f6f-bdff-29df7085f73a)
+
 
 
 
